@@ -270,27 +270,6 @@ install_multimedia()       # Media codecs
 configure_system()         # System optimization
 ```
 
----
-
-## 📈 Roadmap
-
-### 🎯 Upcoming Features
-
-- [ ] **GUI Version** - GTK-based graphical interface
-- [ ] **Custom Profiles** - Save and load installation profiles
-- [ ] **Docker Support** - Containerized development environments
-- [ ] **Dotfiles Integration** - Automatic dotfiles setup
-- [ ] **Theme Manager** - Icon and theme installation
-- [ ] **Backup Integration** - Pre-installation system backup
-
-### 🔮 Future Enhancements
-
-- [ ] **Multi-Distribution Support** - Arch, EndeavourOS compatibility
-- [ ] **Cloud Integration** - Sync settings across devices
-- [ ] **Plugin System** - Extensible architecture
-- [ ] **Performance Monitoring** - Installation time analytics
-
----
 
 ## 📚 Documentation
 
