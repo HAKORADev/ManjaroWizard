@@ -188,8 +188,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ### 📧 Contact
 
--**Developer**: HAKORADev
--**Twitter**: [@HAKORAdev](https://twitter.com/HAKORAdev)
+- **Developer**: HAKORADev
+- **Twitter**: [@HAKORAdev](https://twitter.com/HAKORAdev)
 
 ---
 
